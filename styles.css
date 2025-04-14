@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.navbar li a{
+    text-decoration: none;
+}
+.navbar ul {
+    display: flex;
+    list-style: none;   
+}
